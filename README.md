@@ -1,6 +1,7 @@
 # Task_3_YOLOv5
-- YOLOv5 utilizando DeepSORT.
-- Colocar na pasta da YOLOv5 e executar.
+
+- YOLOv5 utilizando DeepSORT (https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch/tree/master/deep_sort_pytorch).
+- Colocar o arquivo detect_track.py e o repositório do DeepSORT na pasta da YOLOv5 e executar.
 
 Comando para executar:
 
